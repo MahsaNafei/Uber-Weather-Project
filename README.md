@@ -1,6 +1,9 @@
 ## Uber-Weather-Project
 
-This repository contains the analysis, conclusions, and proposals developed by Group 9 (Mahsa, Emily, Jesus) for Project 1.
+## Group Members
+- Jesús Hernández
+- Mahsa Nafei
+- Qianchen Ai
 
 ### Overview
 
